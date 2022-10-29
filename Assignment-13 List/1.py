@@ -1,0 +1,1 @@
+variable = ['Java', 'Python',  'SQL',  'C']
